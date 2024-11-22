@@ -2,7 +2,7 @@ Natural Language Processing (Sentiment Analysis)
 
 File name: sentiment_analysis.py
 
-NLP performed on a set of amazon reviews to evaluate a sentiment score between 0 and 1 for each one. In theory, a review with a higher score will be more positive in sentiment and vice virsa with a a review of lower score.
+NLP performed on a set of amazon reviews to evaluate a sentiment score between 0 and 1 for each one. In theory, a review with a higher score will be more positive in sentiment and vice virsa with a review of lower score.
 
 sentiment_analysis.py file must be downloaded along with amazon_product_reviews.csv, which can be downloaded using the following link: https://drive.google.com/file/d/1tIyta3xeauLnGTnysRUUAYsJ2mIp0c1J/view?usp=sharing , and saved in the same directory.
 
